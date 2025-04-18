@@ -31,7 +31,23 @@
 <h3 align="left">Disclaimer:
 Any misuse of this code for cheating in online games is unethical and may violate the terms of service of the respective game publishers. The author takes no responsibility for any consequences resulting from improper use.</h3>
 
+###
+<h3 align="left">Build Instructions</h3>
 
+###
+<h3 align="left">Open the .sln file with Visual Studio 2019 or later.
+
+Make sure the following components are installed:
+
+Desktop development with C++
+
+Windows SDK (10.x)
+
+Set the build configuration to either Release or Debug as needed.
+
+Press Build Solution (Ctrl + Shift + B) to compile the project.
+
+Run the generated .exe file located in the x64/Release or x64/Debug folder.</h3>
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
