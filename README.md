@@ -22,33 +22,35 @@
 <h1 align="center">Hi👋!</h1>
 
 ###
-<h3 align="left">👩‍💻  About This Project</h3>
+<h3 align="left">🗃 About This Project</h3>
 
-###
-<h3 align="left">This is a C++ project using computer vision techniques to detect in-game targets (opponents) and provide simple aim assist functionality. The project is intended solely for educational and research purposes, specifically in the fields of computer vision and automation. It is not recommended for use in competitive environments or in ways that affect the experience of other players.</h3>
+<h3 align="left">📌 Giới thiệu | Introduction</h3>
 
-###
-<h3 align="left">Disclaimer:
-Any misuse of this code for cheating in online games is unethical and may violate the terms of service of the respective game publishers. The author takes no responsibility for any consequences resulting from improper use.</h3>
+This is a C++ project using computer vision techniques to **detect in-game targets (opponents)** and provide simple **aim assist** functionality.  
+The project is intended **solely for educational and research purposes**, specifically in the fields of computer vision and automation.  
+It is **not recommended for use in competitive environments or in ways that affect the experience of other players**.
 
-###
-<h3 align="left">Build Instructions</h3>
+---
 
-###
-<h3 align="left">Open the .sln file with Visual Studio 2019 or later.
+<h3 align="left">⚠️ Disclaimer</h3>
+  
+Any misuse of this code for cheating in online games is unethical and may violate the terms of service of the respective game publishers.  
+The author **takes no responsibility** for any consequences resulting from improper use.
 
-Make sure the following components are installed:
+---
 
-Desktop development with C++
+<h3 align="left">🛠️ Build Instructions</h3>
 
-Windows SDK (10.x)
+1. Open the `.sln` file with Visual Studio 2019 or later.  
+2. Make sure the following components are installed:
+   - Desktop development with C++
+   - Windows SDK (10.x)
+   - OpenCV (if used in the project)
+3. Set the build configuration to either `Release` or `Debug` as needed.
+4. Press **Build Solution (Ctrl + Shift + B)** to compile the project.
+5. Run the generated `.exe` file located in the `x64/Release` or `x64/Debug` folder.
 
-Set the build configuration to either Release or Debug as needed.
-
-Press Build Solution (Ctrl + Shift + B) to compile the project.
-
-Run the generated .exe file located in the x64/Release or x64/Debug folder.</h3>
-
+---
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 
