@@ -25,10 +25,12 @@
 <h3 align="left">👩‍💻  About This Project</h3>
 
 ###
-<h3 align="left">This is a C++ project using computer vision techniques to detect in-game targets (opponents) and provide simple aim assist functionality. The project is intended solely for educational and research purposes, specifically in the fields of computer vision and automation. It is not recommended for use in competitive environments or in ways that affect the experience of other players.
+<h3 align="left">This is a C++ project using computer vision techniques to detect in-game targets (opponents) and provide simple aim assist functionality. The project is intended solely for educational and research purposes, specifically in the fields of computer vision and automation. It is not recommended for use in competitive environments or in ways that affect the experience of other players.</h3>
 
-Disclaimer:
+###
+<h3 align="left">Disclaimer:
 Any misuse of this code for cheating in online games is unethical and may violate the terms of service of the respective game publishers. The author takes no responsibility for any consequences resulting from improper use.</h3>
+
 
 
 ###
