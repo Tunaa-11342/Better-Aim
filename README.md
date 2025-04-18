@@ -24,8 +24,6 @@
 ###
 <h3 align="left">🗃 About This Project</h3>
 
-<h3 align="left">📌 Giới thiệu | Introduction</h3>
-
 This is a C++ project using computer vision techniques to **detect in-game targets (opponents)** and provide simple **aim assist** functionality.  
 The project is intended **solely for educational and research purposes**, specifically in the fields of computer vision and automation.  
 It is **not recommended for use in competitive environments or in ways that affect the experience of other players**.
